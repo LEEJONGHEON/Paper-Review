@@ -13,6 +13,9 @@ https://stump-rosehip-2a5.notion.site/Convolutional-Character-Networks-5c5a5d7a9
 - Character Region Awareness for Text Detection
 https://stump-rosehip-2a5.notion.site/Character-Region-Awareness-for-Text-Detection-522666e6b8dd4c4ab8e6a04503ed92c6
 
+- Vision Transformer for Fast and Efficient Scene Text Recognition
+https://stump-rosehip-2a5.notion.site/Vision-Transformer-for-Fast-and-Efficient-Scene-Text-Recognition-6c726b8773e34acba8eb7d3b97a21473
+
 ##  Pseudo Labels 준지도학습
 
 - Meta Pseudo Labels
