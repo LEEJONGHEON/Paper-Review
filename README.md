@@ -28,3 +28,7 @@ https://stump-rosehip-2a5.notion.site/Self-training-with-Noisy-Student-improves-
 - SwinIR: Image Restoration Using Swin Transformer
 https://stump-rosehip-2a5.notion.site/SwinIR-Image-Restoration-Using-Swin-Transformer-4cebb057bc3f4b918f024f538dcb48e3
 
+## DenseNet
+- DenseNet : ResNet 보다 효율적인 CNN 네트워크 구조
+https://stump-rosehip-2a5.notion.site/DenseNet-d253b209d69c419081d333172036775f
+
