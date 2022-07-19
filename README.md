@@ -32,3 +32,7 @@ https://stump-rosehip-2a5.notion.site/SwinIR-Image-Restoration-Using-Swin-Transf
 - DenseNet : ResNet 보다 효율적인 CNN 네트워크 구조
 https://stump-rosehip-2a5.notion.site/DenseNet-d253b209d69c419081d333172036775f
 
+## Yolov7
+- Yolov7 : Yolov7 Yolvo중 제일 최근모델 제일빠르고, 최적화된 네트워크 구조도입
+https://stump-rosehip-2a5.notion.site/Yolov7-fa17502f58c4441abef508b9de6c2ed4
+
