@@ -36,3 +36,7 @@ https://stump-rosehip-2a5.notion.site/DenseNet-d253b209d69c419081d333172036775f
 - Yolov7 : Yolov7 Yolvo중 제일 최근모델 제일빠르고, 최적화된 네트워크 구조도입
 https://stump-rosehip-2a5.notion.site/Yolov7-fa17502f58c4441abef508b9de6c2ed4
 
+
+## Inpainting
+- Towards An End-to-End Framework for Flow-Guided Video Inpainting : 비디오 Inpainting
+https://stump-rosehip-2a5.notion.site/Towards-An-End-to-End-Framework-for-Flow-Guided-Video-Inpainting-78fa9d0f61624eb4b15f2ff01df7541e
