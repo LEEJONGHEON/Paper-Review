@@ -1,7 +1,8 @@
 # Paper-Review
 
 ## OCR 분야 논문
-### Text Detectio 
+
+### Text Detection
 - 딥러닝을 활용한 한글문장 OCR연구
 https://stump-rosehip-2a5.notion.site/OCR-06f0f9e5d636469ca06c35303123afd5
 
@@ -11,7 +12,7 @@ https://stump-rosehip-2a5.notion.site/What-Is-Wrong-With-Scene-Text-Recognition-
 - Character Region Awareness for Text Detection
 https://stump-rosehip-2a5.notion.site/Character-Region-Awareness-for-Text-Detection-522666e6b8dd4c4ab8e6a04503ed92c6
 
-
+### Text Recognition
 - Convolutional Character Networks
 https://stump-rosehip-2a5.notion.site/Convolutional-Character-Networks-5c5a5d7a956a416f8bf64a038d94839a
 
