@@ -1,17 +1,19 @@
 # Paper-Review
 
 ## OCR 분야 논문
+### Text Detectio 
 - 딥러닝을 활용한 한글문장 OCR연구
 https://stump-rosehip-2a5.notion.site/OCR-06f0f9e5d636469ca06c35303123afd5
 
 - What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis
 https://stump-rosehip-2a5.notion.site/What-Is-Wrong-With-Scene-Text-Recognition-Model-Comparisons-Dataset-and-Model-Analysis-2aa5e5d99a3d49b993a2cdba5f045705
 
-- Convolutional Character Networks
-https://stump-rosehip-2a5.notion.site/Convolutional-Character-Networks-5c5a5d7a956a416f8bf64a038d94839a
-
 - Character Region Awareness for Text Detection
 https://stump-rosehip-2a5.notion.site/Character-Region-Awareness-for-Text-Detection-522666e6b8dd4c4ab8e6a04503ed92c6
+
+
+- Convolutional Character Networks
+https://stump-rosehip-2a5.notion.site/Convolutional-Character-Networks-5c5a5d7a956a416f8bf64a038d94839a
 
 - Vision Transformer for Fast and Efficient Scene Text Recognition
 https://stump-rosehip-2a5.notion.site/Vision-Transformer-for-Fast-and-Efficient-Scene-Text-Recognition-6c726b8773e34acba8eb7d3b97a21473
